@@ -31,7 +31,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px 30px;
-    height: 50px ;
+    height: 90px ;
     position: fixed;
     z-index: 1;
    
@@ -45,6 +45,12 @@
     
     
 }
+
+.topo .link:hover{
+   color: #fff;
+}
+
+
 .topo img{
     width: 60px;
     margin-left: 30px;
